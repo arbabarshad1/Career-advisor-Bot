@@ -1,18 +1,17 @@
-# 🤖 AI Career Advisor Bot
+ AI Career Advisor Bot
 
 Yeh bot aapki AI ke interest ke basis par career suggest karta hai.
 
-## 💡 Features
+ Features
 - Career suggestions (e.g., Data Scientist, ML Engineer)
 - Required skills show karta hai
 - Seekhne ka simple roadmap deta hai
 
-## 🛠 Tools
+ Tools
 - Python
 - Streamlit
-- GitHub
-
-## 📦 Kaise chalayein
+- Github
+ how to run
 
 1. Streamlit install karein:
 
